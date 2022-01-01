@@ -54,7 +54,7 @@ A = Programming Assignments, Q = Quizzes
 | Week 	| Date 	| Topics | Assignments
 |:---:	|:---:	|---	|---	| 
 | Week 1 | Jan 19 | Syllabus and the Shell | Q
-| Week 2 | Jan 24 & 26 | GitHub	| A, Q
+| Week 2 | Jan 24 & 26 | Git & GitHub	| A, Q
 | Week 3 | Jan 31 & Feb 2 | Python Introduction: Data Types, Variables and Expressions | A, Q
 | Week 4 | Feb 7 & 9 |  Python Introduction: Operators, Input/Output, Numpy	| A, Q
 | Week 5 | Feb 14 & 16	|  Python Introduction: Pandas 	| A, Q
