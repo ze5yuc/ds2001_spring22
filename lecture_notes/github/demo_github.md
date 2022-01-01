@@ -3,7 +3,8 @@
 We will spend time in class on the following:  
 1) forking a repo (this makes a copy in your GitHub account, which you can modify)  
 
-We will fork the Apache Spark repo, which lives here:  
+We will fork our course repo and the Apache Spark repo, which live here:
+https://github.com/DrSuk/ds2001_spring22  
 https://github.com/apache/spark
 
 2) cloning the forked repo to local machine (this copies the fork to your local)
@@ -14,6 +15,8 @@ https://github.com/apache/spark
 ---  
 
 **Committing Files**  
+
+With our course repo: https://github.com/DrSuk/ds2001_spring22 
 
 First, to accomplish steps 3-5, it's preferable to use the command line.  
 You'll want to open a terminal (in Windows, PowerShell is a good option).  
@@ -43,6 +46,8 @@ You should be able to now see the commit in the GitHub repo.
 
 **Syncing your Fork to the Original Repo and Pulling Changes with `git pull`**
 
+With our course repo: https://github.com/DrSuk/ds2001_spring22 
+
 When you want to sync your repo to the original repo, follow these steps:
 1) From the forked repo in your GitHub account, click Fetch upstream at the top right of the page.  
    This syncs the fork with the original.
@@ -59,12 +64,14 @@ or more simply:
 
 **How can you pull from the original repo?**  
 
+With the Apache Spark repo: https://github.com/apache/spark
+
 First we briefly list all steps, and then explain details.  
 
 ```
 > git remote add upstream https://github.com/apache/spark.git
 > git fetch upstream
-> git merge upstream/main main
+> git merge upstream/master master
 ```
 
 **Details:**  
