@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 18 09:40:48 2021
+Created on Wed Jan 12 09:50:35 2022
 
-@author: apt4c
+@author: youmisuk
 """
 
 Warm-up: Table joins
@@ -30,7 +30,7 @@ company_ceos = [
 # connect to db
 
 # update with your path to the database
-path_to_db = "C:/Users/apt4c/sqlite/stocks.db"    
+path_to_db = "/Users/youmisuk/sqlite/stocks.db"    
 
 # create db connection
 conn = sqlite3.connect(path_to_db)
