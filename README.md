@@ -14,15 +14,16 @@ Youmi Suk
 eub6uw@virginia.edu  
 
 **Teaching Assistant**  
-TBD 
+Zeyu Mu  
+dwe4dt@virginia.edu
 
 When emailing the professor or TAs: Please remember to include "DS2001" in your email subject line.
 
 ### Important Dates  
 Date of First Live Session: Jan 19, 2022  
-Date of Last Live Session: Apr 27, 2021  
-Semester Project Presentation Date: Apr, 20 and Apr 2021 (final meeting day) 
-Semester Project Due Date: April 2, 2021 at 11:59 pm
+Date of Last Live Session: Apr 27, 2022  
+Semester Poster Presentation Date: Apr 27, 2022 (final meeting day)  
+Semester Project Due Date: May 2, 2022 at 11:59 pm
 
 ### Textbooks 
 
@@ -46,7 +47,7 @@ There are two options:
 ### Course Description
 
 An introduction to essential programming concepts, structures, and techniques. Students will gain confidence in not only reading code, but learning what it means to write good quality code. Additionally, essential and complementary topics are taught, such as testing and debugging, exception handling, and an introduction to visualization. This course is project based, consisting of a semester project and final project presentations.
-
+s
 ## Schedule of Topics and Assignments
 
 A = Programming Assignments, Q = Quizzes
@@ -54,20 +55,20 @@ A = Programming Assignments, Q = Quizzes
 | Week 	| Date 	| Topics | Assignments
 |:---:	|:---:	|---	|---	| 
 | Week 1 | Jan 19 | Syllabus and the Shell | Q
-| Week 2 | Jan 24 & 26 | Git & GitHub	| A, Q
+| Week 2 | Jan 24 & 26 | GitHub	| A
 | Week 3 | Jan 31 & Feb 2 | Python Introduction: Data Types, Variables and Expressions | A, Q
-| Week 4 | Feb 7 & 9 |  Python Introduction: Operators, Input/Output, Numpy	| A, Q
+| Week 4 | Feb 7 & 9 |  Python Introduction: Operators, Input/Output, Numpy	| A
 | Week 5 | Feb 14 & 16	|  Python Introduction: Pandas 	| A, Q
 | Week 6 | Feb 21 & 23 |  Pandas, SQLite Database	| A, Q
-| Week 7 | Feb 28 & Mar 2 |  Control Structures and Iterables | A, Q, Proposal
-| Week 8 | Mar 7 & 9 |  Spring recess | 
+| Week 7 | Feb 28 & Mar 2 |  Control Structures and Iterables | A, Q
+| Week 8 | Mar 7 & 9 |  Spring Recess | 
 | Week 9 | Mar 14 & 16 |  Functions, Lambdas, List Comprehensions	| A, Q
 | Week 10 | Mar 21 & 23	|  Python and GitHub Strength Training 	| A, Q
 | Week 11 | Mar 28 & 30	|  Recursion and Running From the Command Line | A, Q
 | Week 12 | Apr 4 & 6 |  Python Classes	| A, Q
 | Week 13 | Apr 11 & 13 |  Unit Testing and Exception Handling & R Install | A, Q
 | Week 14 | Apr 18 & 20	|  R Programming I	& II | A, Q
-| Week 15 | Apr 27	|  Group Project Presentation | Final Report
+| Week 15 | Apr 27	|  Group Project Presentation | A, Q, Final Report
 
 
 ### Learning Outcomes
@@ -134,7 +135,7 @@ A weighted-average grade will be calculated as follows:
 |---	|:---:|
 |Quizzes	|40%|
 |Programming Assignments	|35%|
-|Semester Project (Proposal, Presentation, Final Report) |25%|
+|Semester Project (Poster, Presentation, Final Report) |25%|
 
 ### Grading Scale                                                  
 
