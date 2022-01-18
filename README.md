@@ -47,7 +47,7 @@ There are two options:
 ### Course Description
 
 An introduction to essential programming concepts, structures, and techniques. Students will gain confidence in not only reading code, but learning what it means to write good quality code. Additionally, essential and complementary topics are taught, such as testing and debugging, exception handling, and an introduction to visualization. This course is project based, consisting of a semester project and final project presentations.
-s
+
 ## Schedule of Topics and Assignments
 
 A = Programming Assignments, Q = Quizzes
@@ -154,9 +154,10 @@ A weighted-average grade will be calculated as follows:
  
 
 ### Class Management
-Email / Communication    
-- Email is the best way to get in touch with the instructor
-- Please be sure to include the following in your email subject line: “DS 2001” when sending email to any of the course staff: professor and TAs.
+Piazza / Email / Communication    
+- Ask questions on Piazza. 
+- Email is the best way to get in touch with the instructor.
+- Please be sure to include the following in your email subject line: “DS 2001” when sending email to any of the course staff: professor and TA.
 
 **Office Hours**
 - Office hours will be held through Zoom. 
@@ -168,7 +169,7 @@ Email / Communication
 - Unless stated otherwise, please type your programming assignments and submit through Collab in the requested format
 - When submitting programming assignments, don’t forget to write the assignment title, your name, your UVa computing ID, and date at the top of each assignment.
 - In submission file, please include your initials in the filename.
-- <ins> The lowest score will be dropped when computing the final score at the end of the semester.</ins>
+- <ins> The assignment with the greatest deduction will be dropped when computing the final score at the end of the semester.</ins>
 - Check Collab for due dates.
 
 **Programming Assignment Lateness Policy**
