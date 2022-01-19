@@ -29,7 +29,7 @@ Semester Project Due Date: May 2, 2022 at 11:59 pm
 
 - **Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython,** 
 2nd Edition, McKinney. O’Reilly Media / ISBN: 978-1-4919-5766-0 	
-Freely available through the library: https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar
+Freely available through the library: https://learning.oreilly.com/library/view/python-for-data/9781491957653/
  
 - **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data,** 
 1st Edition, Wickham and Grolemund. O'Reilly Media/ISBN: 978-1-4919-1039-9 	
