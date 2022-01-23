@@ -33,21 +33,21 @@ https://www.sqlite.org/download.html
 After install, launch terminal (Windows users use CMD)
 From terminal, cd to sqlite
 
-For example on my Windows machine, i put it here:
-C:\Users\apt4c\sqlite
+For example on my Mac machine, I put it here:
+/Users/youmisuk/sqlite
 
 At prompt, create db called stocks
 > sqlite3 stocks.db
 
 You will see something like this:
-SQLite version 3.36.0 2021-06-18 18:36:39
+SQLite version 3.35.4 2021-04-02 15:20:15
 Enter ".help" for usage hints.
 
 List the databases like this:
 sqlite> .databases
 
 You should see stocks.db listed. For example, I see:
-main: C:\Users\apt4c\sqlite\stocks.db r/w
+main: /Users/youmisuk/sqlite/stocks.db r/w
 
 Next, we will work in Python
 ------------------------------------------------------------------

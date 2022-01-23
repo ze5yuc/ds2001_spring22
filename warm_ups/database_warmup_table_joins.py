@@ -57,8 +57,8 @@ for row in cur.execute('select * from hq'):
 # join the two tables together, printing records with columns: ticker, location, ceo
 # Run the code below, notice the result, and we will discuss it.
     
-for row in conn.execute('select hq.ticker, hq.location, ceo.ceo_name \
-                        from ceo inner join hq \
+for row in conn.execute('select hq.ticker, hq.location, ceo.ceo \
+                        from hq inner join ceo \
                         on hq.ticker = ceo.ticker'):
     print(row)
     
