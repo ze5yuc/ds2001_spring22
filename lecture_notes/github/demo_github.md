@@ -103,11 +103,11 @@ and that the original copy is upstream.
 
 3) Lastly, merge the updates:  
 
-`> git merge upstream/main main`
+`> git merge upstream/master master`
 
 If the merge fails, you likely altered your repo. Git will give suggestions on how to fix a merge conflict.
 
 **Notes:** 
 - the fetch + merge steps are equal to git pull, but the former is safer as a fetch will succeed in the event of a merge conflict
-- every repo has a `main` branch which is intended to be the active branch. developers can work on separate branches, and attempt to merge
-  tested, useful code to the main branch.
+- every repo has a `main`/`master` branch which is intended to be the active branch. developers can work on separate branches, and attempt to merge
+  tested, useful code to the main/master branch.
